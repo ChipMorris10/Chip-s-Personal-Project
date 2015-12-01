@@ -29,8 +29,6 @@ $(document).on('ready', function() {
     })
     .done(function(msg) {
 
-        // add data to dome from msg
-        alert(msg);
     });
 });
 
