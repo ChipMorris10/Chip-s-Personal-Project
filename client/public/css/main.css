@@ -56,6 +56,13 @@ h1 {
   background-color: black;
 }
 
+th {
+  text-align:center;
+}
+
+td {
+  text-align: center;
+}
 
 /*********************************/
 /* SERVICES  CONTROLS */
@@ -192,14 +199,12 @@ body {
   width: 570px;
 }
 
-
 #section {
   width:540px;
   float:left;
   padding:25px;
   text-align: justify;
 }
-
 
 
 /************************************/
@@ -222,9 +227,9 @@ body {
 }
 
 hr.primary {
-max-width: 50px;
-border-color: #f05f40;
-border-width: 1px;
+  max-width: 50px;
+  border-color: #f05f40;
+  border-width: 1px;
 }
 
 
@@ -262,6 +267,7 @@ border-width: 1px;
 }
 
 /* Still needs work
-- Move mail icon- Formatting & commenting html
+- Move mail icon
+- Formatting & commenting html
 */
 
